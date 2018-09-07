@@ -1,0 +1,14 @@
+{
+  "name": "refactoring-video-store-js",
+  "version": "1.0.0",
+  "description": "code following article refactoring-video-store-js by martin flowler",
+  "main": "origin.js",
+  "author": "Jin Xu",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^5.5.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
